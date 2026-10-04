@@ -1,0 +1,230 @@
+{
+  "seo": {
+    "title": "Стоматология Улыбка: уход за зубами от профессионалов",
+    "description": "Услуги стоматологии Улыбка: лечение зубов, имплантация, отбеливание. Опытные специалисты и комфортная атмосфера."
+  },
+  "brand": {
+    "name": "Улыбка",
+    "industry": "стоматология",
+    "slogan": "Красивая улыбка начинается здесь",
+    "colors": "белый, красный",
+    "logo_style": "минимализм"
+  },
+  "hero": {
+    "title": "Стильная стоматология рядом с вами",
+    "subtitle": "Забота о красоте вашей улыбки",
+    "description": "Мы создаем здоровые и красивые зубы с заботой и вниманием к каждому гостю.",
+    "cta_text": "Запишитесь сейчас"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают нас?",
+      "content": "Наша команда — настоящие профессионалы своего дела. Мы используем современное оборудование и проверенные методики лечения. Комфортная обстановка и индивидуальный подход помогут вам почувствовать себя уверенно и комфортно.",
+      "features": [
+        "Современное оборудование",
+        "Индивидуальный подход",
+        "Удобная запись и гибкий график работы"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что мы предлагаем",
+      "items": [
+        {
+          "name": "Лечение кариеса",
+          "description": "Быстрое и безболезненное устранение проблемы"
+        },
+        {
+          "name": "Отбеливание зубов",
+          "description": "Сделайте вашу улыбку ярче и белее"
+        },
+        {
+          "name": "Имплантация зубов",
+          "description": "Полноценная замена утраченных зубов"
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": "Как мы работаем",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Первичный прием",
+          "description": "Консультация специалиста и диагностика состояния полости рта"
+        },
+        {
+          "step": "*2*",
+          "name": "Планирование лечения",
+          "description": "Разработка индивидуального плана лечения"
+        },
+        {
+          "step": "*3*",
+          "name": "Лечение и восстановление",
+          "description": "Выполнение всех необходимых процедур и восстановительных мероприятий"
+        }
+      ]
+    },
+    {
+      "id": "team",
+      "title": "Наши специалисты",
+      "content": "Каждая улыбка в наших руках! Наши опытные врачи бережно относятся к каждому пациенту, обеспечивая высокий уровень сервиса.",
+      "items": [
+        {
+          "name": "Ольга Кузнецова",
+          "description": "Стоматолог-терапевт, 12 лет опыта"
+        },
+        {
+          "name": "Андрей Новиков",
+          "description": "Хирург-имплантолог"
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Отзывы гостей",
+      "items": [
+        {
+          "name": "Екатерина Смирнова",
+          "text": "Спасибо врачам клиники Улыбка за внимательное отношение и качественный сервис!"
+        },
+        {
+          "name": "Дмитрий Кузнецов",
+          "text": "После посещения клиники моя улыбка стала заметно ярче благодаря профессиональному отбеливанию!"
+        },
+        {
+          "name": "Ольга Морозова",
+          "text": "Замечательная клиника! Отличный персонал и уютная атмосфера."
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Стоимость услуг",
+      "items": [
+        {
+          "name": "Консультация",
+          "price": "*500 ₽*",
+          "description": "Осмотр и план лечения"
+        },
+        {
+          "name": "Лечение кариеса",
+          "price": "*6000 ₽*",
+          "description": "Пломба + анестезия"
+        },
+        {
+          "name": "Имплант",
+          "price": "*35000 ₽*",
+          "description": "Имплантация под ключ"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Какие услуги вы предоставляете?",
+          "answer": "Мы предлагаем лечение кариеса, отбеливание зубов, имплантацию и другие стоматологические процедуры."
+        },
+        {
+          "question": "Сколько стоит первичная консультация?",
+          "answer": "*3 000 ₽*"
+        },
+        {
+          "question": "Можно ли записаться онлайн?",
+          "answer": "Да, вы можете записаться через наш сайт или позвонить нам."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "caption": "Ваш путь к красивой улыбке начинается здесь",
+      "prompt": "modern dental clinic reception, bright interior, clean white office, no people, no hands, interior photography, sharp focus, 8k"
+    },
+    {
+      "id": "about",
+      "caption": "Комфорт и профессионализм",
+      "prompt": "modern dental clinic office, dental chair and equipment, clean white interior, no people, sharp focus, 8k"
+    },
+    {
+      "id": "services",
+      "caption": "Высокое качество стоматологических услуг",
+      "prompt": "modern dental clinic interior, empty dental chair, equipment on the wall, clean white office, bright lighting, no people, no hands, interior photography, sharp focus, ultra high quality, 8k"
+    },
+    {
+      "id": "process",
+      "caption": "Как мы работаем",
+      "prompt": "team of dentists in white medical coats standing full body, smiling, clinic background, slavic people, arms relaxed, 8k"
+    },
+    {
+      "id": "team",
+      "caption": "Наши мастера",
+      "prompt": "happy patient with beautiful white smile, portrait, modern clinic background, slavic person, sharp focus, 8k, professional photo"
+    }
+  ],
+  "privacy_policy": "Настоящая политика конфиденциальности описывает порядок сбора, обработки и защиты персональных данных гостей клиники Улыбка. Собираются только необходимые данные: ФИО, контактный номер телефона и адрес электронной почты. Персональные данные не передаются третьим лицам.",
+  "footer": {
+    "copyright": "© 2025 Улыбка",
+    "contacts": {
+      "email": "info@ulybka.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "achievements": [
+    {
+      "number": "*11*",
+      "label": "лет"
+    },
+    {
+      "number": "*5200*",
+      "label": "пациентов"
+    },
+    {
+      "number": "*8*",
+      "label": "врачей"
+    }
+  ],
+  "contacts": {
+    "address": "г. Москва",
+    "map_query": "Москва",
+    "working_hours": "9:00-21:00"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "process": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "team": [
+      {
+        "path": "images/result.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#e63946\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" \n                  text-anchor=\"middle\" font-weight=\"bold\">U</text>\n        </svg>"
+}
