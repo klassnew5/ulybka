@@ -143,12 +143,12 @@
     {
       "id": "hero",
       "caption": "Ваш путь к красивой улыбке начинается здесь",
-      "prompt": "modern dental clinic reception, bright interior, clean white office, no people, no hands, interior photography, sharp focus, 8k"
+      "prompt": "Modern dental clinic reception interior, clean white and beige office, dental chair, equipment, no text, no letters, no signage, no logo, no words, photorealistic, 4k"
     },
     {
       "id": "about",
-      "caption": "Комфорт и профессионализм",
-      "prompt": "modern dental clinic office, dental chair and equipment, clean white interior, no people, sharp focus, 8k"
+      "caption": "Уход и профессионализм",
+      "prompt": "Russian female dentist in white coat sitting at her desk in modern dental office, smiling, slavic appearance, no hands in foreground, no text, photorealistic, 4k"
     },
     {
       "id": "services",
